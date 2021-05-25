@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: user
+
+server:
+  port: 8888
+loadbalancer:
+  client:
+    name: say-hello
